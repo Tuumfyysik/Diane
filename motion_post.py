@@ -16,7 +16,7 @@ params = {
     "api_key": api_key,
     "device": device,
     "datetime": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-    "image_name": datetime.datetime.now().strftime("/home/pi/motion_images/%Y%m%d%H%M%S.jpg")
+    "image_name": datetime.datetime.now().strftime("/home/pi/images/%Y%m%d%H%M%S.jpg")
 }
 
 # prepare POST data
