@@ -2,3 +2,4 @@
 *.xml
 config.py
 *.iml
+*.pyc
